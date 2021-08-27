@@ -1,0 +1,24 @@
+
+
+div.container{
+    position: absolute;
+    left: 230px;
+    top: 63px;
+    width: 450px; /* Ширина слоя */
+    margin: 7px; /* Значение отступов */
+    padding: 10px; /* Поля вокруг текста */
+    
+}
+
+img.icon{
+    width: 15%;
+    height: 15%;
+    position: relative;
+    left: 400px;
+
+}
+
+p.alert{
+    background-color: rgb(229, 157, 157);
+}
+

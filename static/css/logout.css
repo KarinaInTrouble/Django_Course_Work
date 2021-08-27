@@ -1,0 +1,38 @@
+
+div.container{
+    font-family:cursive;
+    position: absolute;
+    left: 30%;
+    top: 17%;
+    width: 550px;
+    height: 350px; /* Ширина слоя */
+    margin: auto; /* Значение отступов */
+    padding-left: 100px; 
+    padding-top: 30px;/* Поля вокруг текста */
+    background-color: rgb(46, 56, 77);
+    
+
+}
+
+img.icon{
+    width: 16%;
+    height: 20%;
+    position: relative;
+    left: 125px;
+
+}
+h2{
+color: rgb(255, 255, 255);
+position: relative;
+left:42px; 
+}
+a{
+font-size: 17px;
+color:white;
+}
+
+a.basic{
+position: relative;
+left:130px;
+
+}
